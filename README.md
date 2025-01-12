@@ -1,7 +1,7 @@
 # About Web3 slot game
 A Web3 slot game is a type of online slot machine that operates within the Web3 ecosystem, leveraging blockchain technology to enhance the gaming experience. Here are the key features and characteristics of Web3 slot games:
 
-Key Features of Web3 Slot Games
+##Key Features of Web3 Slot Games
 Unlike traditional online slot games, which are controlled by centralized operators, Web3 slot games are built on decentralized platforms. This means that game outcomes are determined by smart contracts on the blockchain, ensuring transparency and fairness.
 Players have true ownership of their in-game assets, such as tokens or NFTs (non-fungible tokens). This allows them to trade, sell, or use these assets across different platforms, enhancing the overall gaming experience.
 Web3 slot games typically accept cryptocurrencies for betting and payouts. This integration allows for faster transactions and lower fees compared to traditional payment methods.
